@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
 import {DomSanitizer, SafeUrl} from '@angular/platform-browser';
-import {Ng2ImgMaxService} from "./lib/ng2-img-max.service";
+import {Ng2ImgMaxService} from 'ng2-img-max';
 
 @Component({
   selector: 'app-root',
